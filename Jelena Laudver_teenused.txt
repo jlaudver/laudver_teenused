@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jelena Laudver - Strateegiline Värbamispartner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #0077B5; /* LinkedIn sinine */
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #005f8f;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            margin-bottom: 10px;
+        }
+        ul li {
+            margin-bottom: 5px;
+        }
+        .contact-info {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #eee;
+        }
+        .contact-info a {
+            color: #0077B5;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        strong {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Kasvata oma meeskonda õigete inimestega!</h1>
+        <p style="text-align: center; font-size: 1.2em; color: #555;"><strong>Jelena Laudver – Sinu strateegiline värbamispartner tehnoloogiasektoris</strong></p>
+
+        <p>Soovid oma meeskonda kasvatada õigete inimestega? Ma ei ole pelgalt värbaja, vaid <strong>strateegiline partner</strong>, kes mõistab tehnoloogia, IT ja küberturbe sektorite ärilisi eesmärke ja meeskondade dünaamikaid. Ma teen endale süvitsi selgeks ja mõistan iga kliendi äri ja HR-strateegiaid ning tänu sellele saan pakkuda enamat kui lihtsalt kandidaatide nimekirja.</p>
+        <p>Aitan luua meeskondi, mis viivad ettevõtte eesmärkideni, sest minu lähenemine on mitmetahuline ja tulemuslikkusele orienteeritud. Olen sulle toeks kogu meeskonna kujundamise protsessis, alates vajaduste kaardistamisest kuni uue töötaja eduka sisseelamise kavani.</p>
+
+        ---
+
+        <h2>20 aastat jagatavat kogemust</h2>
+        <p>Minu lähenemine põhineb aastatepikkusel kogemusel ja süvitsi mineval arusaamal personalivaldkonnast:</p>
+        <ul>
+            <li><strong>Alati strateegiline vaade:</strong> Teen tihedat koostööd erinevate tasemete juhtidega, et mõista ettevõtte strateegiat ja leida kandidaate, kes panustavad pikaajaliselt ettevõtte edusse. Julgen vajadusel küsida ebamugavaid küsimusi.</li>
+            <li><strong>Kvaliteet enne kvantiteeti:</strong> Tänu oma pikaajalisele HR-juhi ja ärilisele kogemusele suudan kiiresti kaardistada, millist inimest organisatsioon tegelikult vajab nii oskuste kui ka kultuurilise sobivuse poolest. Viimast kiputakse tihti alahindama.</li>
+            <li><strong>IT- ja küberturbe valdkonna tundmine:</strong> Oman sügavaid teadmisi IT- ja küberturbe valdkonnast, mis võimaldab mul paremini mõista tehnoloogiaettevõtete spetsiifilisi vajadusi ja leida sobivaimad kandidaadid. Oskan kandidaatide pädevust valideerida.</li>
+            <li><strong>Inimkeskne lähenemine:</strong> Kandidaadid hindavad minu avatud suhtlusstiili ja tähelepanelikkust, mis tagab positiivse kandidaadikogemuse ja aitab kaasa sinu ettevõtte hea maine kujundamisele tööandjana.</li>
+        </ul>
+
+        ---
+
+        <h2>Sinu kasud minuga koostöös</h2>
+        <ul>
+            <li><strong>Tõestatud tulemused:</strong> 95% meie poolt värvatud spetsialistidest läbib katseaja edukalt. See tähendab vähem korduvvärbamisi ja kulusid sinule.</li>
+            <li><strong>Kohtud vaid sobivaimatega:</strong> Ma mitte ainult ei kuula sinu vajadusi, vaid mõistan neid. Mõistes saan teha kiiremaid ja õigemaid eelvalikuid ning sa kohtud vaid tõeliselt sobivate kandidaatidega.</li>
+            <li><strong>Saad strateegilist tagasisidet:</strong> Suhtlen sinu tiimiga laiemalt, pakkudes objektiivset välispilku organisatsioonikultuurile ja värbamisprotsessile.</li>
+            <li><strong>Tugevdad tööandja mainet:</strong> Tagan positiivse kandidaadikogemuse ja läbi professionaalse värbamisprotsessi suunan sinu ettevõtte maine kasvu.</li>
+        </ul>
+
+        ---
+
+        <h2>Lisandväärtus koolitajana</h2>
+        <p>Olen hea tagasisusega koolitaja, kes suudab avada juhtide silmad uutele vaatenurkadele.</p>
+        <ul>
+            <li><strong>Eristuv pädevus</strong> teemadel nagu:
+                <ul>
+                    <li>Organisatsioonikultuur</li>
+                    <li>Tööandja bränding</li>
+                    <li>HR-strateegia</li>
+                </ul>
+            </li>
+            <li>Koolitused tuginevad <strong>reaalelulistele kogemustele</strong> ja 20-aastasele praktikabaasile.</li>
+            <li>Koolituste sisu on kohandatud vastavalt auditooriumile, <strong>juhtidest spetsialistideni</strong>.</li>
+        </ul>
+
+        ---
+
+        <div class="contact-info">
+            <p><strong>Tulemuslikku koostööd nautides,</strong></p>
+            <p style="font-size: 1.3em;"><strong>Jelena Laudver</strong></p>
+            <p>Sinu strateegiline värbamispartner tehnoloogiasektoris</p>
+            <p><a href="https://www.linkedin.com/in/jelenalaudver" target="_blank">LinkedIn profiil</a></p>
+            <p>+372 5810 9943</p>
+        </div>
+    </div>
+</body>
+</html>
